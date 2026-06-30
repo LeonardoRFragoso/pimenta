@@ -64,6 +64,5 @@ src/
 
 Todas as CTAs abrem:
 ```
-https://wa.me/5521976870833?text=Oi Luiza, vi a página da Melt Pimenta e queria falar com você.
 ```
 # pimenta
