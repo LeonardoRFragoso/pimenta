@@ -1,6 +1,6 @@
 # 🌶️ Melt Pimenta
 
-Landing page visual e conceitual da **Melt Pimenta**, projeto criado por Luiza Pimenta.
+Landing page visual e conceitual da **Melt Pimenta**, projeto criado por Pimenta.
 
 > Projeto visual/conceitual. Conteúdo destinado a maiores de 18 anos.
 
